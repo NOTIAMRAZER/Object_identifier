@@ -1,0 +1,16 @@
+body{
+    color: white;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px black dashed;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #results_object_name, .result_object_accuracy{
+    color: white;
+}
